@@ -1,6 +1,6 @@
 ### Hi there 👋, I am @aroodgar.
 
-⚡ I am interested concepts of distributed system, cloud computing and edge computing.
+⚡ I am interested in concepts of distributed systems, cloud computing and edge computing.
 
 🔭 I am currently working on my Final bachelor thesis with a focus on mobile edge computing (MEC).
 

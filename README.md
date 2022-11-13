@@ -2,7 +2,7 @@
 
 ⚡ I am interested in concepts of distributed systems, cloud computing and edge computing.
 
-🔭 I am currently working on my Final bachelor thesis with a focus on mobile edge computing (MEC).
+🔭 I am currently working on my Final bachelor's thesis with a focus on mobile edge computing (MEC).
 
 🌱 As for now, I'm mostly learning about exploring Deep Reinforcement Learning (DRL) based solutions for task offloading in MEC systems.
 

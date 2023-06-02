@@ -1,10 +1,21 @@
 ### Hi there 👋, I am @aroodgar.
 
-⚡ I am interested in concepts of distributed systems, cloud computing and edge computing.
+## Interests
+> Distributed Systems
+> Cloud Computing
+> Edge Computing
+> Linux
+> Linux Tracing
 
-🔭 I am currently working on my Final bachelor's thesis with a focus on mobile edge computing (MEC).
+## Languages
+> Python
+> C
+> C#
+> bash
 
-🌱 As for now, I'm mostly learning about exploring Deep Reinforcement Learning (DRL) based solutions for task offloading in MEC systems.
+## What am I doing now?
+> I am currently working on my Final bachelor's thesis with a focus on mobile edge computing (MEC).
+> As for now, I'm mostly exploring Deep Reinforcement Learning (DRL) based solutions for task offloading in MEC systems.
 
 📫 How to reach me: This is my email -> a.h.roudgar@gmail.com
 

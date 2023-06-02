@@ -9,7 +9,7 @@
 
 ## Languages
 <!--![python-logo-only](https://github.com/aroodgar/aroodgar/assets/58762460/ed054e7b-3f58-449d-8e47-1e7c14e7579f)-->
-<img src="https://github.com/aroodgar/aroodgar/assets/58762460/ed054e7b-3f58-449d-8e47-1e7c14e7579f" width="50" height="50"> - Python
+<img src="https://github.com/aroodgar/aroodgar/assets/58762460/ed054e7b-3f58-449d-8e47-1e7c14e7579f" width="15" height="15"> Python
 - C
 - C#
 - bash

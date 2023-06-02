@@ -8,6 +8,7 @@
 - Linux Tracing
 
 ## Languages
+![python-logo-only](https://github.com/aroodgar/aroodgar/assets/58762460/ed054e7b-3f58-449d-8e47-1e7c14e7579f)
 - Python
 - C
 - C#

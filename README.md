@@ -7,12 +7,19 @@
 - Linux
 - Linux Tracing
 
-## Languages
+<!-- ## Languages
 <!--![python-logo-only](https://github.com/aroodgar/aroodgar/assets/58762460/ed054e7b-3f58-449d-8e47-1e7c14e7579f)-->
-- Python
+<!-- - Python
 - C
 - C#
-- bash
+- bash -->
+
+## Github Stats
+<p>
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aroodgar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aroodgar&theme=tokyonight&hide_border=true" />
+<img img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroodgar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+</p>
 
 ## What am I doing now?
 🔭 I am currently working on my Final bachelor's thesis with a focus on mobile edge computing (MEC).

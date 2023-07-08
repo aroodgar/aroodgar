@@ -16,13 +16,14 @@
 
 ## Github Stats
 <div>
-<img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroodgar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroodgar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </div>
 <div>
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aroodgar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=aroodgar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 </div>
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aroodgar&theme=tokyonight&hide_border=true" />
-</p>
+<div>
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aroodgar&theme=tokyonight&hide_border=true" />
+</div>
 
 ## What am I doing now?
 🔭 I am currently working on my Final bachelor's thesis with a focus on mobile edge computing (MEC).

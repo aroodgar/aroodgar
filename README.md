@@ -13,6 +13,30 @@
 - C
 - C#
 - bash -->
+## Skills
+**Languages and Tools**:
+<p align="left"> 
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c plus plus" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    </a> 
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+    </a> 
+</p>
 
 ## Github Stats
 <div>

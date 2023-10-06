@@ -52,7 +52,7 @@
 ## What am I doing now?
 🔭 I am currently working on my Final bachelor's thesis with a focus on mobile edge computing (MEC).
 
-🌱 As for now, I'm mostly exploring Deep Reinforcement Learning (DRL) based solutions for task offloading in MEC systems.
+🌱 Recently, I have mostly been exploring Deep Reinforcement Learning (DRL) based solutions for task offloading in MEC systems.
 
 📫 How to reach me: This is my email -> a.h.roudgar@gmail.com
 

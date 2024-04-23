@@ -49,12 +49,11 @@
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aroodgar&theme=tokyonight&hide_border=true" />
 </div>
 
-## What am I doing now?
-🔭 I am currently working on my Final bachelor's thesis with a focus on mobile edge computing (MEC).
+## How to reach me?
+📫 This is my email -> a.h.roudgar@gmail.com
 
-🌱 Recently, I have mostly been exploring Deep Reinforcement Learning (DRL) based solutions for task offloading in MEC systems.
-
-📫 How to reach me: This is my email -> a.h.roudgar@gmail.com
+I have recently got my bachelor's degree.
+My final project was focused on a task offloading in an edge computing domain
 
 <!--
 **aroodgar/aroodgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

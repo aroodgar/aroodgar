@@ -53,7 +53,8 @@
 📫 This is my email -> a.h.roudgar@gmail.com
 
 I have recently got my bachelor's degree.
-My final project was focused on a task offloading in an edge computing domain
+
+My final project was focused on a task offloading problem in an edge computing domain.
 
 <!--
 **aroodgar/aroodgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
